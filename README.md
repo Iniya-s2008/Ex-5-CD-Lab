@@ -66,7 +66,8 @@ int yywrap() {
 }
 ```
 # OUTPUT:
-<img width="1536" height="1024" alt="exp5changepic" src="https://github.com/user-attachments/assets/a411ea5c-e60c-43ff-ac49-0ff973d4e320" />
+<img width="1137" height="877" alt="image" src="https://github.com/user-attachments/assets/77600f2c-551b-48ab-b301-30b406f82bf3" />
+
 
 
 # RESULT
